@@ -200,8 +200,6 @@
     "**/.vscode": true,
     "**/.yarn": true,
     "**/*.snap": true,
-    "**/*.svg": true,
-    "**/assets": true,
     "**/bower_components": true,
     "**/CHANGELOG*": true,
     "**/dist/**": true,
